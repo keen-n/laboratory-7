@@ -34,6 +34,7 @@ body {
       rgba(55, 55, 56, 0.584)
     ),
     url(./ball-background.jpg);
+
   background-size: cover;
   background-position: center;
   display: flex;
