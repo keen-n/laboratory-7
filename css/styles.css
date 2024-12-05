@@ -33,7 +33,7 @@ body {
       rgba(63, 63, 65, 0.7),
       rgba(55, 55, 56, 0.584)
     ),
-    url(images/ball-background.jpg);
+    url(./images/ball-background.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
